@@ -1,3 +1,2 @@
-print("bad")
-print("good")
-print("EESH")
+for i in range(50):
+  print("")
